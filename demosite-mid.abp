@@ -172,7 +172,7 @@
             "encodedURL": "https://demosite.appvance.com:443/products/ruby-on-rails-tote/?"
         },
         "62031971": {
-            "startedDateTime": "2019-05-02T14:02:41.146-06:00",
+            "startedDateTime": "2019-05-02T14:04:45.059-06:00",
             "request": {
                 "headers": [
                     {
@@ -181,7 +181,7 @@
                     },
                     {
                         "name": "Referer",
-                        "value": "https://demosite.appvance.com/t/mugs"
+                        "value": "https://demosite.appvance.com/t/spree"
                     },
                     {
                         "name": "Accept-Encoding",
@@ -200,7 +200,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:02:41 GMT"
+                        "value": "Thu, 02 May 2019 20:04:45 GMT"
                     },
                     {
                         "name": "Server",
@@ -224,7 +224,7 @@
                     },
                     {
                         "name": "Keep-Alive",
-                        "value": "timeout=5, max=99"
+                        "value": "timeout=5, max=100"
                     },
                     {
                         "name": "Content-Type",
@@ -247,8 +247,99 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 164,
+            "time": 868,
             "encodedURL": "https://demosite.appvance.com:443/spree/products/43/small/spree_stein.jpeg/?"
+        },
+        "-2107974534": {
+            "startedDateTime": "2019-05-02T14:04:43.746-06:00",
+            "request": {
+                "headers": [
+                    {
+                        "name": "Upgrade-Insecure-Requests",
+                        "value": "1"
+                    },
+                    {
+                        "name": "Accept",
+                        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+                    },
+                    {
+                        "name": "Referer",
+                        "value": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "name": "Accept-Encoding",
+                        "value": "identity"
+                    },
+                    {
+                        "name": "Accept-Language",
+                        "value": "en-US,en;q=0.9"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "method": "GET",
+                "url": "https://demosite.appvance.com:443/t/spree"
+            },
+            "response": {
+                "headers": [
+                    {
+                        "name": "Date",
+                        "value": "Thu, 02 May 2019 20:04:44 GMT"
+                    },
+                    {
+                        "name": "Server",
+                        "value": "Apache"
+                    },
+                    {
+                        "name": "X-Content-Type-Options",
+                        "value": "nosniff"
+                    },
+                    {
+                        "name": "X-Runtime",
+                        "value": "0.212447"
+                    },
+                    {
+                        "name": "X-Request-Id",
+                        "value": "de2db76d-6535-4249-9605-5c8434fa427d"
+                    },
+                    {
+                        "name": "X-Powered-By",
+                        "value": "Phusion Passenger 5.1.2"
+                    },
+                    {
+                        "name": "Vary",
+                        "value": "Cookie,Accept-Encoding"
+                    },
+                    {
+                        "name": "ETag",
+                        "value": "W/\"64c893cd6d1808b8635fba641d63f17c\""
+                    },
+                    {
+                        "name": "Status",
+                        "value": "200 OK"
+                    },
+                    {
+                        "name": "Keep-Alive",
+                        "value": "timeout=5, max=100"
+                    },
+                    {
+                        "name": "Content-Type",
+                        "value": "text/html; charset=utf-8"
+                    },
+                    {
+                        "name": "Cache-Control",
+                        "value": "no-cache, no-store, must-revalidate"
+                    },
+                    {
+                        "name": "Pragma",
+                        "value": "no-cache"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "statusText": "OK",
+                "status": 200
+            },
+            "time": 1231,
+            "encodedURL": "https://demosite.appvance.com:443/t/spree/?"
         },
         "150825930": {
             "startedDateTime": "2019-05-02T14:02:19.628-06:00",
@@ -330,7 +421,7 @@
             "encodedURL": "https://demosite.appvance.com:443/spree/products/21/small/ror_tote.jpeg/?"
         },
         "-1318321165": {
-            "startedDateTime": "2019-05-02T14:02:03.064-06:00",
+            "startedDateTime": "2019-05-02T14:03:20.604-06:00",
             "request": {
                 "headers": [
                     {
@@ -358,7 +449,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:02:19 GMT"
+                        "value": "Thu, 02 May 2019 20:03:39 GMT"
                     },
                     {
                         "name": "Server",
@@ -401,11 +492,11 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 2175,
+            "time": 2386,
             "encodedURL": "https://demosite.appvance.com:443/assets/spree/frontend/all-0281369d41354ab55fdb55cdccf3c49ba18178485a8e2a8acb9148a19a26c362.js/?"
         },
         "-1510618304": {
-            "startedDateTime": "2019-05-02T14:02:18.453-06:00",
+            "startedDateTime": "2019-05-02T14:03:36.838-06:00",
             "request": {
                 "headers": [
                     {
@@ -433,7 +524,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:02:19 GMT"
+                        "value": "Thu, 02 May 2019 20:03:37 GMT"
                     },
                     {
                         "name": "Server",
@@ -445,11 +536,11 @@
                     },
                     {
                         "name": "X-Runtime",
-                        "value": "0.068150"
+                        "value": "0.065056"
                     },
                     {
                         "name": "X-Request-Id",
-                        "value": "580976b4-cc34-4f59-ad23-d7f2140545b8"
+                        "value": "dc13d58b-e129-471b-8def-a724823fa5e2"
                     },
                     {
                         "name": "X-Powered-By",
@@ -461,7 +552,7 @@
                     },
                     {
                         "name": "ETag",
-                        "value": "W/\"04621af8c0be3aef181ab14771b49ce7\""
+                        "value": "W/\"2a59c16175da66ea7acdedf4393a4e02\""
                     },
                     {
                         "name": "Status",
@@ -488,7 +579,7 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 1175,
+            "time": 1178,
             "encodedURL": "https://demosite.appvance.com:443/?"
         },
         "-1288136179": {
@@ -1278,7 +1369,7 @@
             "encodedURL": "https://demosite.appvance.com:443/spree/products/24/small/ror_baseball.jpeg/?"
         },
         "-1721123207": {
-            "startedDateTime": "2019-05-02T14:02:19.758-06:00",
+            "startedDateTime": "2019-05-02T14:03:38.421-06:00",
             "request": {
                 "headers": [
                     {
@@ -1287,7 +1378,7 @@
                     },
                     {
                         "name": "X-CSRF-Token",
-                        "value": "F0kCKlE1dQsTrBe197NXPw7fZssjIvr0/id64xABn8oDxrFnlglU4Z/UV6kcXOMAJRCxaqqsVH0+MzDCRes/3g=="
+                        "value": "YKMBrcpvcuQ3G1Jh4lHY7y8OMrTqTwH+8U6JIZLa9B08rM/gsf1NSGGmbgO8bhiQlikXRuUQs8RWz8uaTnGFZA=="
                     },
                     {
                         "name": "X-Requested-With",
@@ -1314,7 +1405,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:02:22 GMT"
+                        "value": "Thu, 02 May 2019 20:03:41 GMT"
                     },
                     {
                         "name": "Server",
@@ -1326,11 +1417,11 @@
                     },
                     {
                         "name": "X-Runtime",
-                        "value": "0.020709"
+                        "value": "0.059647"
                     },
                     {
                         "name": "X-Request-Id",
-                        "value": "91934dd4-8918-4f6c-b067-2b1844c744fa"
+                        "value": "1ecbea83-0095-4b8e-b213-84b98a453f40"
                     },
                     {
                         "name": "X-Powered-By",
@@ -1369,11 +1460,11 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 937,
+            "time": 1093,
             "encodedURL": "https://demosite.appvance.com:443/cart_link/?"
         },
         "-475788877": {
-            "startedDateTime": "2019-05-02T14:01:53.360-06:00",
+            "startedDateTime": "2019-05-02T14:04:23.889-06:00",
             "request": {
                 "headers": [
                     {
@@ -1401,7 +1492,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:01:53 GMT"
+                        "value": "Thu, 02 May 2019 20:04:26 GMT"
                     },
                     {
                         "name": "Server",
@@ -1425,7 +1516,7 @@
                     },
                     {
                         "name": "Keep-Alive",
-                        "value": "timeout=5, max=98"
+                        "value": "timeout=5, max=100"
                     },
                     {
                         "name": "Content-Type",
@@ -1448,7 +1539,7 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 223,
+            "time": 876,
             "encodedURL": "https://demosite.appvance.com:443/spree/products/36/small/spree_tote_front.jpeg/?"
         },
         "-1433747912": {
@@ -1946,7 +2037,7 @@
             "encodedURL": "https://demosite.appvance.com:443/spree/products/33/small/apache_baseball.png/?"
         },
         "1161752489": {
-            "startedDateTime": "2019-05-02T14:02:00.460-06:00",
+            "startedDateTime": "2019-05-02T14:03:40.532-06:00",
             "request": {
                 "headers": [
                     {
@@ -1974,7 +2065,7 @@
                 "headers": [
                     {
                         "name": "Date",
-                        "value": "Thu, 02 May 2019 20:02:00 GMT"
+                        "value": "Thu, 02 May 2019 20:03:40 GMT"
                     },
                     {
                         "name": "Server",
@@ -1998,7 +2089,7 @@
                     },
                     {
                         "name": "Keep-Alive",
-                        "value": "timeout=5, max=95"
+                        "value": "timeout=5, max=99"
                     },
                     {
                         "name": "Content-Type",
@@ -2021,7 +2112,7 @@
                 "statusText": "OK",
                 "status": 200
             },
-            "time": 192,
+            "time": 1077,
             "encodedURL": "https://demosite.appvance.com:443/spree/products/35/small/spree_bag.jpeg/?"
         },
         "2020992476": {
@@ -2348,6 +2439,97 @@
             "time": 1237,
             "encodedURL": "https://demosite.appvance.com:443/t/mugs/?"
         },
+        "-1438534007": {
+            "startedDateTime": "2019-05-02T14:04:19.896-06:00",
+            "request": {
+                "headers": [
+                    {
+                        "name": "Upgrade-Insecure-Requests",
+                        "value": "1"
+                    },
+                    {
+                        "name": "Accept",
+                        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+                    },
+                    {
+                        "name": "Referer",
+                        "value": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "name": "Accept-Encoding",
+                        "value": "identity"
+                    },
+                    {
+                        "name": "Accept-Language",
+                        "value": "en-US,en;q=0.9"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "method": "GET",
+                "url": "https://demosite.appvance.com:443/t/apache"
+            },
+            "response": {
+                "headers": [
+                    {
+                        "name": "Date",
+                        "value": "Thu, 02 May 2019 20:04:39 GMT"
+                    },
+                    {
+                        "name": "Server",
+                        "value": "Apache"
+                    },
+                    {
+                        "name": "X-Content-Type-Options",
+                        "value": "nosniff"
+                    },
+                    {
+                        "name": "X-Runtime",
+                        "value": "0.114587"
+                    },
+                    {
+                        "name": "X-Request-Id",
+                        "value": "f9692c34-0c18-4ef6-be75-19f8a1a13162"
+                    },
+                    {
+                        "name": "X-Powered-By",
+                        "value": "Phusion Passenger 5.1.2"
+                    },
+                    {
+                        "name": "Vary",
+                        "value": "Cookie,Accept-Encoding"
+                    },
+                    {
+                        "name": "ETag",
+                        "value": "W/\"169e9c762bcc13b7774820980c19a3ac\""
+                    },
+                    {
+                        "name": "Status",
+                        "value": "200 OK"
+                    },
+                    {
+                        "name": "Keep-Alive",
+                        "value": "timeout=5, max=100"
+                    },
+                    {
+                        "name": "Content-Type",
+                        "value": "text/html; charset=utf-8"
+                    },
+                    {
+                        "name": "Cache-Control",
+                        "value": "no-cache, no-store, must-revalidate"
+                    },
+                    {
+                        "name": "Pragma",
+                        "value": "no-cache"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "statusText": "OK",
+                "status": 200
+            },
+            "time": 1027,
+            "encodedURL": "https://demosite.appvance.com:443/t/apache/?"
+        },
         "987769135": {
             "startedDateTime": "2019-05-02T14:01:37.911-06:00",
             "request": {
@@ -2502,6 +2684,97 @@
             "time": 942,
             "encodedURL": "https://demosite.appvance.com:443/assets/favicon-92e86d463e909754599d66730477622cd3dd0b9bff58c47c9c38bebceb8073e5.ico/?"
         },
+        "-2109353338": {
+            "startedDateTime": "2019-05-02T14:04:25.462-06:00",
+            "request": {
+                "headers": [
+                    {
+                        "name": "Upgrade-Insecure-Requests",
+                        "value": "1"
+                    },
+                    {
+                        "name": "Accept",
+                        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+                    },
+                    {
+                        "name": "Referer",
+                        "value": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "name": "Accept-Encoding",
+                        "value": "identity"
+                    },
+                    {
+                        "name": "Accept-Language",
+                        "value": "en-US,en;q=0.9"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "method": "GET",
+                "url": "https://demosite.appvance.com:443/t/rails"
+            },
+            "response": {
+                "headers": [
+                    {
+                        "name": "Date",
+                        "value": "Thu, 02 May 2019 20:04:41 GMT"
+                    },
+                    {
+                        "name": "Server",
+                        "value": "Apache"
+                    },
+                    {
+                        "name": "X-Content-Type-Options",
+                        "value": "nosniff"
+                    },
+                    {
+                        "name": "X-Runtime",
+                        "value": "0.210290"
+                    },
+                    {
+                        "name": "X-Request-Id",
+                        "value": "e0731aaa-5a2c-4b58-a6f0-38c5cbaa9996"
+                    },
+                    {
+                        "name": "X-Powered-By",
+                        "value": "Phusion Passenger 5.1.2"
+                    },
+                    {
+                        "name": "Vary",
+                        "value": "Cookie,Accept-Encoding"
+                    },
+                    {
+                        "name": "ETag",
+                        "value": "W/\"70a2378afb983ad51790321fc84b67a1\""
+                    },
+                    {
+                        "name": "Status",
+                        "value": "200 OK"
+                    },
+                    {
+                        "name": "Keep-Alive",
+                        "value": "timeout=5, max=100"
+                    },
+                    {
+                        "name": "Content-Type",
+                        "value": "text/html; charset=utf-8"
+                    },
+                    {
+                        "name": "Cache-Control",
+                        "value": "no-cache, no-store, must-revalidate"
+                    },
+                    {
+                        "name": "Pragma",
+                        "value": "no-cache"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "statusText": "OK",
+                "status": 200
+            },
+            "time": 1301,
+            "encodedURL": "https://demosite.appvance.com:443/t/rails/?"
+        },
         "-856155202": {
             "startedDateTime": "2019-05-02T14:02:39.070-06:00",
             "request": {
@@ -2655,6 +2928,97 @@
             },
             "time": 387,
             "encodedURL": "https://demosite.appvance.com:443/bitnami/images/close.png/?"
+        },
+        "763259349": {
+            "startedDateTime": "2019-05-02T14:04:03.531-06:00",
+            "request": {
+                "headers": [
+                    {
+                        "name": "Upgrade-Insecure-Requests",
+                        "value": "1"
+                    },
+                    {
+                        "name": "Accept",
+                        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+                    },
+                    {
+                        "name": "Referer",
+                        "value": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "name": "Accept-Encoding",
+                        "value": "identity"
+                    },
+                    {
+                        "name": "Accept-Language",
+                        "value": "en-US,en;q=0.9"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "method": "GET",
+                "url": "https://demosite.appvance.com:443/t/ruby"
+            },
+            "response": {
+                "headers": [
+                    {
+                        "name": "Date",
+                        "value": "Thu, 02 May 2019 20:04:04 GMT"
+                    },
+                    {
+                        "name": "Server",
+                        "value": "Apache"
+                    },
+                    {
+                        "name": "X-Content-Type-Options",
+                        "value": "nosniff"
+                    },
+                    {
+                        "name": "X-Runtime",
+                        "value": "0.115625"
+                    },
+                    {
+                        "name": "X-Request-Id",
+                        "value": "6960e003-2e50-4a67-afaa-1e450482c0a6"
+                    },
+                    {
+                        "name": "X-Powered-By",
+                        "value": "Phusion Passenger 5.1.2"
+                    },
+                    {
+                        "name": "Vary",
+                        "value": "Cookie,Accept-Encoding"
+                    },
+                    {
+                        "name": "ETag",
+                        "value": "W/\"f9427c0e9c197198fd3fc69ff2702b7e\""
+                    },
+                    {
+                        "name": "Status",
+                        "value": "200 OK"
+                    },
+                    {
+                        "name": "Keep-Alive",
+                        "value": "timeout=5, max=100"
+                    },
+                    {
+                        "name": "Content-Type",
+                        "value": "text/html; charset=utf-8"
+                    },
+                    {
+                        "name": "Cache-Control",
+                        "value": "no-cache, no-store, must-revalidate"
+                    },
+                    {
+                        "name": "Pragma",
+                        "value": "no-cache"
+                    }
+                ],
+                "httpVersion": "HTTP/1.1",
+                "statusText": "OK",
+                "status": 200
+            },
+            "time": 1015,
+            "encodedURL": "https://demosite.appvance.com:443/t/ruby/?"
         }
     },
     "type": ["Smarttags"],
@@ -2691,8 +3055,12 @@
             "urlVariants": [
                 "https://demosite.appvance.com/",
                 "https://demosite.appvance.com/t/bags",
+                "https://demosite.appvance.com/t/apache",
+                "https://demosite.appvance.com/t/spree",
                 "https://demosite.appvance.com/t/clothing",
-                "https://demosite.appvance.com/t/mugs"
+                "https://demosite.appvance.com/t/ruby",
+                "https://demosite.appvance.com/t/mugs",
+                "https://demosite.appvance.com/t/rails"
             ],
             "pageLocators": "cartButton('cart-info empty')dropDownSelect('taxon')homeButton('home-link')productLink($productLink)searchBoxText('keywords')searchButton('Search')sideMenuLink('Apache')sideMenuLink('Bags')sideMenuLink('Clothing')sideMenuLink('Mugs')sideMenuLink('Rails')sideMenuLink('Ruby')sideMenuLink('Spree')",
             "id": 2138583790,
@@ -2790,7 +3158,7 @@
             "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
         }
     ],
-    "duration": 186260,
+    "duration": 320178,
     "mobileConfigurations": [],
     "browser": "Chrome",
     "root": 1,
@@ -2801,11 +3169,15 @@
         1,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
         0
     ],
-    "lastActionId": 15,
+    "lastActionId": 36,
     "nwLibraries": [],
-    "dplType": "HashDPL",
+    "dplType": "",
     "sitemap": "",
     "stLibraries": [{
         "extractors": [
@@ -3416,80 +3788,189 @@
             }]
         }],
         "validators": [],
-        "bindings": [{
-            "visualHintPath": "{abp}/2138583790.jpg",
-            "stateId": 2138583790,
-            "selectWindow": "",
-            "customActions": {},
-            "scale": 1.75,
-            "bindingId": 211515653,
-            "fields": [
-                {
-                    "oncePerApp": false,
-                    "actionsCreated": 0,
-                    "w": 131,
-                    "name": "cartButton('cart-info empty')",
-                    "smartTagName": "cartButton",
-                    "x": 1162,
-                    "h": 50,
-                    "action": "click",
-                    "y": 100,
-                    "type": "Action",
-                    "elementType": "smartTag"
-                },
-                {
-                    "oncePerApp": false,
-                    "actionsCreated": 0,
-                    "values": [
-                        "",
-                        "1",
-                        "2"
-                    ],
-                    "w": 145,
-                    "name": "dropDownSelect('taxon')",
-                    "smartTagName": "dropDownSelect",
-                    "x": 876,
-                    "h": 34,
-                    "action": "setSelected",
-                    "y": 28,
-                    "type": "Select",
-                    "elementType": "smartTag"
-                },
-                {
-                    "oncePerApp": false,
-                    "actionsCreated": 0,
-                    "w": 193,
-                    "name": "searchBoxText('keywords')",
-                    "smartTagName": "searchBoxText",
-                    "x": 1025,
-                    "h": 34,
-                    "action": "setValue",
-                    "y": 28,
-                    "type": "Text",
-                    "elementType": "smartTag"
-                },
-                {
-                    "oncePerApp": false,
-                    "actionsCreated": 0,
-                    "w": 70,
-                    "name": "searchButton('Search')",
-                    "smartTagName": "searchButton",
-                    "x": 1223,
-                    "h": 34,
-                    "action": "click",
-                    "y": 28,
-                    "type": "Action",
-                    "elementType": "smartTag"
-                }
-            ],
-            "actions": [{
-                "stateId": 0,
-                "actionId": 1
-            }]
-        }],
-        "duration": 186260,
+        "bindings": [
+            {
+                "visualHintPath": "{abp}/2138583790.jpg",
+                "stateId": 2138583790,
+                "selectWindow": "",
+                "customActions": {},
+                "scale": 1.75,
+                "bindingId": 211515653,
+                "fields": [
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 131,
+                        "name": "cartButton('cart-info empty')",
+                        "smartTagName": "cartButton",
+                        "x": 1162,
+                        "h": 50,
+                        "action": "click",
+                        "y": 100,
+                        "type": "Action",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "values": [
+                            "",
+                            "1",
+                            "2"
+                        ],
+                        "w": 145,
+                        "name": "dropDownSelect('taxon')",
+                        "smartTagName": "dropDownSelect",
+                        "x": 876,
+                        "h": 34,
+                        "action": "setSelected",
+                        "y": 28,
+                        "type": "Select",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 193,
+                        "name": "searchBoxText('keywords')",
+                        "smartTagName": "searchBoxText",
+                        "x": 1025,
+                        "h": 34,
+                        "action": "setValue",
+                        "y": 28,
+                        "type": "Text",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 70,
+                        "name": "searchButton('Search')",
+                        "smartTagName": "searchButton",
+                        "x": 1223,
+                        "h": 34,
+                        "action": "click",
+                        "y": 28,
+                        "type": "Action",
+                        "elementType": "smartTag"
+                    }
+                ],
+                "actions": [{
+                    "stateId": 0,
+                    "actionId": 1
+                }]
+            },
+            {
+                "visualHintPath": "{abp}/1042987720.jpg",
+                "stateId": 1042987720,
+                "selectWindow": "",
+                "customActions": {},
+                "scale": 1.75,
+                "bindingId": 1960945882,
+                "fields": [
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 99,
+                        "name": "addToCartButton('button')",
+                        "smartTagName": "addToCartButton",
+                        "x": 737,
+                        "h": 34,
+                        "action": "click",
+                        "y": 497,
+                        "type": "Action",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 131,
+                        "name": "cartButton('cart-info empty')",
+                        "smartTagName": "cartButton",
+                        "x": 1162,
+                        "h": 50,
+                        "action": "click",
+                        "y": 100,
+                        "type": "Action",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "values": [
+                            "",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "w": 145,
+                        "name": "dropDownSelect('taxon')",
+                        "smartTagName": "dropDownSelect",
+                        "x": 876,
+                        "h": 34,
+                        "action": "setSelected",
+                        "y": 28,
+                        "type": "Select",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 195,
+                        "name": "quantityText('quantity')",
+                        "smartTagName": "quantityText",
+                        "x": 543,
+                        "h": 34,
+                        "action": "setValue",
+                        "y": 497,
+                        "type": "Text",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 193,
+                        "name": "searchBoxText('keywords')",
+                        "smartTagName": "searchBoxText",
+                        "x": 1025,
+                        "h": 34,
+                        "action": "setValue",
+                        "y": 28,
+                        "type": "Text",
+                        "elementType": "smartTag"
+                    },
+                    {
+                        "oncePerApp": false,
+                        "actionsCreated": 0,
+                        "w": 70,
+                        "name": "searchButton('Search')",
+                        "smartTagName": "searchButton",
+                        "x": 1223,
+                        "h": 34,
+                        "action": "click",
+                        "y": 28,
+                        "type": "Action",
+                        "elementType": "smartTag"
+                    }
+                ],
+                "actions": [
+                    {
+                        "stateId": 0,
+                        "actionId": 1
+                    },
+                    {
+                        "stateId": 2138583790,
+                        "actionId": 10
+                    }
+                ]
+            }
+        ],
+        "duration": 320172,
         "dataSetNames": ["Default"],
-        "bindingsWithoutCustomActions": [211515653],
+        "bindingsWithoutCustomActions": [
+            211515653,
+            1960945882
+        ],
         "usePreviousBindings": false,
         "prunePages": [
             {
@@ -3514,13 +3995,37 @@
                 "pruned": 0,
                 "stateId": 2138583790,
                 "count": 1,
+                "pageURL": "https://demosite.appvance.com/t/apache"
+            },
+            {
+                "pruned": 0,
+                "stateId": 2138583790,
+                "count": 1,
+                "pageURL": "https://demosite.appvance.com/t/spree"
+            },
+            {
+                "pruned": 0,
+                "stateId": 2138583790,
+                "count": 1,
                 "pageURL": "https://demosite.appvance.com/t/clothing"
             },
             {
                 "pruned": 0,
                 "stateId": 2138583790,
                 "count": 1,
+                "pageURL": "https://demosite.appvance.com/t/ruby"
+            },
+            {
+                "pruned": 0,
+                "stateId": 2138583790,
+                "count": 1,
                 "pageURL": "https://demosite.appvance.com/t/mugs"
+            },
+            {
+                "pruned": 0,
+                "stateId": 2138583790,
+                "count": 1,
+                "pageURL": "https://demosite.appvance.com/t/rails"
             }
         ],
         "id": 0,
@@ -3538,8 +4043,29 @@
                 "pruned": 0,
                 "resultState": 2138583790,
                 "count": 1,
+                "action": "click(sideMenuLink('Ruby'));\n",
+                "actionId": 6
+            },
+            {
+                "pruned": 0,
+                "resultState": 2138583790,
+                "count": 1,
+                "action": "click(sideMenuLink('Apache'));\n",
+                "actionId": 7
+            },
+            {
+                "pruned": 0,
+                "resultState": 2138583790,
+                "count": 1,
                 "action": "click(homeButton('home-link'));\n",
                 "actionId": 2
+            },
+            {
+                "pruned": 0,
+                "resultState": 2138583790,
+                "count": 1,
+                "action": "click(sideMenuLink('Rails'));\n",
+                "actionId": 9
             },
             {
                 "pruned": 0,
@@ -3568,83 +4094,19 @@
                 "count": 1,
                 "action": "click(sideMenuLink('Bags'));\n",
                 "actionId": 3
+            },
+            {
+                "pruned": 0,
+                "resultState": 2138583790,
+                "count": 1,
+                "action": "click(sideMenuLink('Spree'));\n",
+                "actionId": 8
             }
         ],
         "pruned": 0,
         "templates": [],
         "start": 1556827241632,
-        "unprocessedActions": [
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 7
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 8
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 9
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 3
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 6
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 4
-                }
-            ],
-            [
-                {
-                    "stateId": 0,
-                    "actionId": 1
-                },
-                {
-                    "stateId": 2138583790,
-                    "actionId": 5
-                }
-            ]
-        ],
+        "unprocessedActions": [],
         "smartTags": [
             {
                 "inconsistencies": 0,
@@ -3703,6 +4165,26 @@
                         "inconsistencies": 0,
                         "failures": 0,
                         "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
                     }
                 ],
                 "failures": 0,
@@ -3712,22 +4194,22 @@
                 "rules": [
                     {
                         "failures": 0,
-                        "successes": 7,
-                        "weight": 33.33333333333333,
+                        "successes": 11,
+                        "weight": 33.333333333333336,
                         "type": "attrContainsValue",
                         "value": "type:submit"
                     },
                     {
                         "failures": 0,
-                        "successes": 7,
-                        "weight": 33.33333333333333,
+                        "successes": 11,
+                        "weight": 33.333333333333336,
                         "type": "attrContainsValue",
                         "value": "value:Search"
                     },
                     {
                         "failures": 0,
-                        "successes": 7,
-                        "weight": 33.33333333333333,
+                        "successes": 11,
+                        "weight": 33.333333333333336,
                         "type": "attrContainsValue",
                         "value": "class:btn-success"
                     }
@@ -3777,6 +4259,46 @@
                     {
                         "visualHintPath": "{abp}/searchButton1961445499.jpg",
                         "url": "https://demosite.appvance.com/products/ruby-on-rails-tote",
+                        "points": [{
+                            "w": 122,
+                            "x": 2150,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchButton-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 122,
+                            "x": 2150,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchButton-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 122,
+                            "x": 2150,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchButton1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 122,
+                            "x": 2150,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchButton1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
                         "points": [{
                             "w": 122,
                             "x": 2150,
@@ -3846,6 +4368,26 @@
                         "inconsistencies": 0,
                         "failures": 0,
                         "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
                     }
                 ],
                 "failures": 0,
@@ -3854,7 +4396,7 @@
                 "disabled": false,
                 "rules": [{
                     "failures": 0,
-                    "successes": 7,
+                    "successes": 11,
                     "weight": 100,
                     "type": "attrContainsValue",
                     "value": "class:cart-info"
@@ -3904,6 +4446,46 @@
                     {
                         "visualHintPath": "{abp}/cartButton1961445499.jpg",
                         "url": "https://demosite.appvance.com/products/ruby-on-rails-tote",
+                        "points": [{
+                            "w": 229,
+                            "x": 2043,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/cartButton-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 229,
+                            "x": 2043,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/cartButton-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 229,
+                            "x": 2043,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/cartButton1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 229,
+                            "x": 2043,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/cartButton1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
                         "points": [{
                             "w": 229,
                             "x": 2043,
@@ -4006,6 +4588,26 @@
                         "inconsistencies": 0,
                         "failures": 0,
                         "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
                     }
                 ],
                 "failures": 0,
@@ -4014,7 +4616,7 @@
                 "disabled": false,
                 "rules": [{
                     "failures": 0,
-                    "successes": 7,
+                    "successes": 11,
                     "weight": 100,
                     "type": "attrContainsValue",
                     "value": "id:home-link"
@@ -4070,38 +4672,202 @@
                             "h": 87,
                             "y": 175
                         }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/homeButton-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 117,
+                            "x": 304,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/homeButton-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 117,
+                            "x": 304,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/homeButton1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 117,
+                            "x": 304,
+                            "h": 87,
+                            "y": 175
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/homeButton1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
+                        "points": [{
+                            "w": 117,
+                            "x": 304,
+                            "h": 87,
+                            "y": 175
+                        }]
                     }
                 ]
             },
             {
                 "inconsistencies": 0,
-                "urls": [{
-                    "inconsistencies": 0,
-                    "failures": 0,
-                    "url": "https://demosite.appvance.com/"
-                }],
+                "urls": [
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/bags"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/mugs"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/clothing"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
+                    }
+                ],
                 "failures": 0,
                 "actionsCreated": 0,
                 "name": "dropDownSelect",
                 "disabled": false,
                 "rules": [{
                     "failures": 0,
-                    "successes": 3,
+                    "successes": 11,
                     "weight": 100,
                     "type": "attrContainsValue",
                     "value": "id:taxon"
                 }],
                 "type": "Select",
-                "visualHints": [{
-                    "visualHintPath": "{abp}/dropDownSelect1067686787.jpg",
-                    "url": "https://demosite.appvance.com/",
-                    "points": [{
-                        "w": 253,
-                        "x": 1543,
-                        "h": 59,
-                        "y": 49
-                    }]
-                }]
+                "visualHints": [
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect1067686787.jpg",
+                        "url": "https://demosite.appvance.com/",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect-104191127.jpg",
+                        "url": "https://demosite.appvance.com/t/bags",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect1961445499.jpg",
+                        "url": "https://demosite.appvance.com/products/ruby-on-rails-tote",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect-103844206.jpg",
+                        "url": "https://demosite.appvance.com/t/mugs",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect607109766.jpg",
+                        "url": "https://demosite.appvance.com/t/clothing",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/dropDownSelect1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
+                        "points": [{
+                            "w": 253,
+                            "x": 1543,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    }
+                ]
             },
             {
                 "inconsistencies": 0,
@@ -4125,6 +4891,26 @@
                         "inconsistencies": 0,
                         "failures": 0,
                         "url": "https://demosite.appvance.com/t/mugs"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
                     }
                 ],
                 "failures": 0,
@@ -4133,7 +4919,7 @@
                 "disabled": false,
                 "rules": [{
                     "failures": 0,
-                    "successes": 36,
+                    "successes": 64,
                     "weight": 100,
                     "type": "attrContainsValue",
                     "value": "class:list-group-item"
@@ -4331,6 +5117,198 @@
                                 "y": 981
                             }
                         ]
+                    },
+                    {
+                        "visualHintPath": "{abp}/sideMenuLink-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 463
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 535
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 607
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 766
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 838
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 910
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 981
+                            }
+                        ]
+                    },
+                    {
+                        "visualHintPath": "{abp}/sideMenuLink-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 463
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 535
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 607
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 766
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 838
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 910
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 981
+                            }
+                        ]
+                    },
+                    {
+                        "visualHintPath": "{abp}/sideMenuLink1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 463
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 535
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 607
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 766
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 838
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 910
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 981
+                            }
+                        ]
+                    },
+                    {
+                        "visualHintPath": "{abp}/sideMenuLink1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
+                        "points": [
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 463
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 535
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 607
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 766
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 838
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 910
+                            },
+                            {
+                                "w": 458,
+                                "x": 277,
+                                "h": 73,
+                                "y": 981
+                            }
+                        ]
                     }
                 ]
             },
@@ -4361,6 +5339,26 @@
                         "inconsistencies": 0,
                         "failures": 0,
                         "url": "https://demosite.appvance.com/t/mugs"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
                     }
                 ],
                 "failures": 0,
@@ -4369,7 +5367,7 @@
                 "disabled": false,
                 "rules": [{
                     "failures": 0,
-                    "successes": 7,
+                    "successes": 11,
                     "weight": 100,
                     "type": "attrContainsValue",
                     "value": "id:keywords"
@@ -4425,6 +5423,46 @@
                             "h": 59,
                             "y": 49
                         }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchBoxText-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 337,
+                            "x": 1803,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchBoxText-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 337,
+                            "x": 1803,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchBoxText1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 337,
+                            "x": 1803,
+                            "h": 59,
+                            "y": 49
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/searchBoxText1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
+                        "points": [{
+                            "w": 337,
+                            "x": 1803,
+                            "h": 59,
+                            "y": 49
+                        }]
                     }
                 ]
             },
@@ -4452,11 +5490,48 @@
             },
             {
                 "inconsistencies": 0,
-                "urls": [{
-                    "inconsistencies": 0,
-                    "failures": 0,
-                    "url": "https://demosite.appvance.com/"
-                }],
+                "urls": [
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/bags"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/clothing"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/mugs"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/ruby"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/apache"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/rails"
+                    },
+                    {
+                        "inconsistencies": 0,
+                        "failures": 0,
+                        "url": "https://demosite.appvance.com/t/spree"
+                    }
+                ],
                 "failures": 0,
                 "actionsCreated": 0,
                 "name": "productLink",
@@ -4464,30 +5539,102 @@
                 "rules": [
                     {
                         "failures": 0,
-                        "successes": 3,
+                        "successes": 10,
                         "weight": 50,
                         "type": "attrContainsValue",
                         "value": "class:info"
                     },
                     {
                         "failures": 0,
-                        "successes": 3,
+                        "successes": 10,
                         "weight": 50,
                         "type": "attrContainsValue",
                         "value": "itemprop:name"
                     }
                 ],
                 "type": "Navigation",
-                "visualHints": [{
-                    "visualHintPath": "{abp}/productLink1067686787.jpg",
-                    "url": "https://demosite.appvance.com/",
-                    "points": [{
-                        "w": 204,
-                        "x": 848,
-                        "h": 26,
-                        "y": 504
-                    }]
-                }]
+                "visualHints": [
+                    {
+                        "visualHintPath": "{abp}/productLink1067686787.jpg",
+                        "url": "https://demosite.appvance.com/",
+                        "points": [{
+                            "w": 204,
+                            "x": 848,
+                            "h": 26,
+                            "y": 504
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink-104191127.jpg",
+                        "url": "https://demosite.appvance.com/t/bags",
+                        "points": [{
+                            "w": 204,
+                            "x": 848,
+                            "h": 26,
+                            "y": 757
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink607109766.jpg",
+                        "url": "https://demosite.appvance.com/t/clothing",
+                        "points": [{
+                            "w": 252,
+                            "x": 829,
+                            "h": 61,
+                            "y": 757
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink-103844206.jpg",
+                        "url": "https://demosite.appvance.com/t/mugs",
+                        "points": [{
+                            "w": 206,
+                            "x": 848,
+                            "h": 26,
+                            "y": 757
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink-103695400.jpg",
+                        "url": "https://demosite.appvance.com/t/ruby",
+                        "points": [{
+                            "w": 236,
+                            "x": 832,
+                            "h": 26,
+                            "y": 750
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink-1358392372.jpg",
+                        "url": "https://demosite.appvance.com/t/apache",
+                        "points": [{
+                            "w": 262,
+                            "x": 820,
+                            "h": 26,
+                            "y": 750
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink1079820515.jpg",
+                        "url": "https://demosite.appvance.com/t/rails",
+                        "points": [{
+                            "w": 204,
+                            "x": 848,
+                            "h": 26,
+                            "y": 757
+                        }]
+                    },
+                    {
+                        "visualHintPath": "{abp}/productLink1081199319.jpg",
+                        "url": "https://demosite.appvance.com/t/spree",
+                        "points": [{
+                            "w": 127,
+                            "x": 888,
+                            "h": 26,
+                            "y": 757
+                        }]
+                    }
+                ]
             },
             {
                 "inconsistencies": 0,
@@ -4502,14 +5649,33 @@
             },
             {
                 "inconsistencies": 0,
-                "urls": [],
+                "urls": [{
+                    "inconsistencies": 0,
+                    "failures": 0,
+                    "url": "https://demosite.appvance.com/products/ruby-on-rails-tote"
+                }],
                 "failures": 0,
                 "actionsCreated": 0,
                 "name": "quantityText",
                 "disabled": false,
-                "rules": [],
+                "rules": [{
+                    "failures": 0,
+                    "successes": 2,
+                    "weight": 100,
+                    "type": "attrContainsValue",
+                    "value": "id:quantity"
+                }],
                 "type": "Text",
-                "visualHints": []
+                "visualHints": [{
+                    "visualHintPath": "{abp}/quantityText1961445499.jpg",
+                    "url": "https://demosite.appvance.com/products/ruby-on-rails-tote",
+                    "points": [{
+                        "w": 341,
+                        "x": 960,
+                        "h": 59,
+                        "y": 869
+                    }]
+                }]
             },
             {
                 "inconsistencies": 0,
@@ -5105,7 +6271,7 @@
                 }
             ]
         },
-        "stop": 1556827428485,
+        "stop": 1556827608913,
         "lastResume": 0,
         "networkValidations": [],
         "useOneDataSet": false,
@@ -5122,6 +6288,26 @@
                 }]
             },
             {
+                "url": "https://demosite.appvance.com/t/apache",
+                "statistics": [{
+                    "failures": [],
+                    "successes": 1,
+                    "name": "textAutoValidation",
+                    "smartTagName": "sideMenuLink",
+                    "id": -343093807
+                }]
+            },
+            {
+                "url": "https://demosite.appvance.com/t/spree",
+                "statistics": [{
+                    "failures": [],
+                    "successes": 1,
+                    "name": "textAutoValidation",
+                    "smartTagName": "sideMenuLink",
+                    "id": -935567460
+                }]
+            },
+            {
                 "url": "https://demosite.appvance.com/t/clothing",
                 "statistics": [{
                     "failures": [],
@@ -5132,6 +6318,16 @@
                 }]
             },
             {
+                "url": "https://demosite.appvance.com/t/ruby",
+                "statistics": [{
+                    "failures": [],
+                    "successes": 1,
+                    "name": "textAutoValidation",
+                    "smartTagName": "sideMenuLink",
+                    "id": 1254709469
+                }]
+            },
+            {
                 "url": "https://demosite.appvance.com/t/mugs",
                 "statistics": [{
                     "failures": [],
@@ -5139,6 +6335,16 @@
                     "name": "textAutoValidation",
                     "smartTagName": "sideMenuLink",
                     "id": 1151799831
+                }]
+            },
+            {
+                "url": "https://demosite.appvance.com/t/rails",
+                "statistics": [{
+                    "failures": [],
+                    "successes": 1,
+                    "name": "textAutoValidation",
+                    "smartTagName": "sideMenuLink",
+                    "id": 1040070824
                 }]
             }
         ],
@@ -5207,7 +6413,7 @@
             "shortestPath": [],
             "timesVisited": [{
                 "executionId": 0,
-                "times": 5
+                "times": 9
             }],
             "apiRequestList": [{
                 "executionId": 0,
@@ -5443,11 +6649,36 @@
         },
         {
             "oncePerApp": true,
-            "requestList": [],
-            "children": {},
+            "requestList": [{
+                "executionId": 0,
+                "requests": [
+                    763259349,
+                    1288951113,
+                    -1433747912,
+                    -856155202,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
+            "children": {"0": [2138583790]},
             "shortestPath": [1],
-            "timesVisited": [],
-            "apiRequestList": [],
+            "timesVisited": [{
+                "executionId": 0,
+                "times": 1
+            }],
+            "apiRequestList": [{
+                "executionId": 0,
+                "requests": [
+                    763259349,
+                    1288951113,
+                    -1433747912,
+                    -856155202,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
             "recurrenceProbability": 0,
             "id": 6,
             "subActions": [{
@@ -5466,11 +6697,36 @@
         },
         {
             "oncePerApp": true,
-            "requestList": [],
-            "children": {},
+            "requestList": [{
+                "executionId": 0,
+                "requests": [
+                    -1438534007,
+                    1288951113,
+                    1979324364,
+                    -856155202,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
+            "children": {"0": [2138583790]},
             "shortestPath": [1],
-            "timesVisited": [],
-            "apiRequestList": [],
+            "timesVisited": [{
+                "executionId": 0,
+                "times": 1
+            }],
+            "apiRequestList": [{
+                "executionId": 0,
+                "requests": [
+                    -1438534007,
+                    1288951113,
+                    1979324364,
+                    -856155202,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
             "recurrenceProbability": 0,
             "id": 7,
             "subActions": [{
@@ -5489,11 +6745,48 @@
         },
         {
             "oncePerApp": true,
-            "requestList": [],
-            "children": {},
+            "requestList": [{
+                "executionId": 0,
+                "requests": [
+                    -2107974534,
+                    1288951113,
+                    62031971,
+                    -1273589347,
+                    -856155202,
+                    -1288136179,
+                    -1778906236,
+                    -475788877,
+                    1161752489,
+                    -792140994,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
+            "children": {"0": [2138583790]},
             "shortestPath": [1],
-            "timesVisited": [],
-            "apiRequestList": [],
+            "timesVisited": [{
+                "executionId": 0,
+                "times": 1
+            }],
+            "apiRequestList": [{
+                "executionId": 0,
+                "requests": [
+                    -2107974534,
+                    1288951113,
+                    62031971,
+                    -1273589347,
+                    -856155202,
+                    -1288136179,
+                    -1778906236,
+                    -475788877,
+                    1161752489,
+                    -792140994,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
             "recurrenceProbability": 0,
             "id": 8,
             "subActions": [{
@@ -5512,11 +6805,48 @@
         },
         {
             "oncePerApp": true,
-            "requestList": [],
-            "children": {},
+            "requestList": [{
+                "executionId": 0,
+                "requests": [
+                    -2109353338,
+                    1288951113,
+                    150825930,
+                    -672973080,
+                    -856155202,
+                    1564360102,
+                    425922337,
+                    1471770254,
+                    987769135,
+                    -1381668017,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
+            "children": {"0": [2138583790]},
             "shortestPath": [1],
-            "timesVisited": [],
-            "apiRequestList": [],
+            "timesVisited": [{
+                "executionId": 0,
+                "times": 1
+            }],
+            "apiRequestList": [{
+                "executionId": 0,
+                "requests": [
+                    -2109353338,
+                    1288951113,
+                    150825930,
+                    -672973080,
+                    -856155202,
+                    1564360102,
+                    425922337,
+                    1471770254,
+                    987769135,
+                    -1381668017,
+                    -1318321165,
+                    -1721123207,
+                    -1889587220
+                ]
+            }],
             "recurrenceProbability": 0,
             "id": 9,
             "subActions": [{
